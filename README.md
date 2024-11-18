@@ -1,5 +1,3 @@
-# Bondi_Bootstrap_Template
-Use HTML, CSS, Bootstrap (Responsive Design)
+# Bondi
 
-## Demo Page
-https://mahmoudabuyousef.github.io/Bondi_Bootstrap_Template/
+## [Demo Link](https://mahmoud-abuyoussef.github.io/Bondi/)
